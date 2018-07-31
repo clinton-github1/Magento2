@@ -1,0 +1,1 @@
+/var/www/html/Magento2/lib/web/mage/apply/main.js
